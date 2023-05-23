@@ -7,7 +7,7 @@ public:
     {
       if (x < 10)
       {
-        return true;
+        return true; 
       }
       std::string sx = std::to_string(x);
       int n = sx.size();
