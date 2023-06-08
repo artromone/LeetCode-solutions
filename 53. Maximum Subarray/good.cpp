@@ -6,11 +6,11 @@ public:
   {
     int n = nums.size();
     int maxSum = nums[0];
-    int currSum = nums[0];
+    int max_or_maxPlusCurr = nums[0];
     for (int i = 1; i < n; ++i)
     {
-      currSum = std::max(nums[i], nums[i] + currSum);
-      maxSum = std::max(maxSum, currSum);
+      max_or_maxPlusCurr = std::max(nums[i], nums[i] + max_or_maxPlusCurr);
+      maxSum = std::max(maxSum, max_or_maxPlusCurr);
     }
     return maxSum;
   }
