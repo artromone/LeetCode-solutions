@@ -20,3 +20,4 @@ Table with the solution complexity information:
 | 153  | O(logN)                | O(1)         |
 | 217  | O(N)                   | O(N)         |
 | 238  | O(N)                   | O(1)         |
+| 371  | O(log(max(a, b)))      | O(1)         |
