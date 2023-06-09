@@ -12,6 +12,7 @@ Table with the solution complexity information:
 | ---- | ---------------------- |    ------    |
 | 1    | O(N)                   | O(N)         |
 | 2    | O(max(N, M))           | O(max(N, M)) |
+| 33   | O(logN)                | O(1)         |
 | 53   | O(N)                   | O(1)         |
 | 121  | O(N)                   | O(1)         |
 | 153  | O(logN)                | O(1)         |
