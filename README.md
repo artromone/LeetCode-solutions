@@ -18,6 +18,7 @@ Table with the solution complexity information:
 | 53   | O(N)                   | O(1)         |
 | 121  | O(N)                   | O(1)         |
 | 153  | O(logN)                | O(1)         |
+| 190  | O(1)                   | O(1)         |
 | 191  | O(log(n))              | O(1)         |
 | 217  | O(N)                   | O(N)         |
 | 238  | O(N)                   | O(1)         |
