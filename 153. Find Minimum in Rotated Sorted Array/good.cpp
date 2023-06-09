@@ -9,8 +9,6 @@ public:
     while (left < right)
     {
       int mid = left + (right - left) / 2;
-      // 3 4 5 1 2
-      // 2 3 4 5 1
       if (nums[mid] > nums[right])
       {
         left = mid + 1;
