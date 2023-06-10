@@ -23,6 +23,7 @@ Table with the solution complexity information:
 | 190  | O(1)                   | O(1)         | link (not done yet)  |
 | 191  | O(log(N))              | O(1)         | link (not done yet)  |
 | 217  | O(N)                   | O(N)         | link (not done yet)  |
+| 226  | O(N)                   | O(N)         | link (not done yet)  |
 | 238  | O(N)                   | O(1)         | link (not done yet)  |
 | 268  | O(N)                   | O(1)         | link (not done yet)  |
 | 371  | O(log(N))              | O(1)         | link (not done yet)  |
