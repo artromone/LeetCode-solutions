@@ -23,28 +23,28 @@ class Solution
 public:
   std::vector< std::vector< int >> levelOrder(TreeNode *root)
   {
-    int h = determineH(root);
+    int h = getMaxDepth(root);
     std::vector< std::vector< int >> res(h, std::vector< int >());
-    lo_impl(root, 0, res);
+    levelOrder_impl(root, 0, res);
     return res;
   }
 public:
-  void lo_impl(TreeNode *root, int level, std::vector< std::vector< int >> &res)
+  void levelOrder_impl(TreeNode *root, int level, std::vector< std::vector< int >> &res)
   {
     if (!root)
     {
       return;
     }
     res[level].push_back(root->val);
-    lo_impl(root->left, level + 1, res);
-    lo_impl(root->right, level + 1, res);
+    levelOrder_impl(root->left, level + 1, res);
+    levelOrder_impl(root->right, level + 1, res);
   }
-  int determineH(TreeNode *root)
+  int getMaxDepth(TreeNode *root)
   {
     if (!root)
     {
       return 0;
     }
-    return std::max(determineH(root->left), determineH(root->right)) + 1;
+    return std::max(getMaxDepth(root->left), getMaxDepth(root->right)) + 1;
   }
 };
