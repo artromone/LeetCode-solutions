@@ -18,6 +18,7 @@ Table with the solution complexity information:
 | 53   | O(N)                   | O(1)         | link (not done yet)  |
 | 104  | O(N)                   | O(N)         | link (not done yet)  |
 | 100  | O(N)                   | O(N)         | link (not done yet)  |
+| 102  | O(N)                   | O(N)         | link (not done yet)  |
 | 121  | O(N)                   | O(1)         | link (not done yet)  |
 | 124  | O(N)                   | O(N)         | link (not done yet)  |
 | 153  | O(log(N))              | O(1)         | link (not done yet)  |
