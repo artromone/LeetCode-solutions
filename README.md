@@ -16,6 +16,7 @@ Table with the solution complexity information:
 | 15   | O(N^2)                 | O(1)         | link (not done yet)  |
 | 33   | O(log(N))              | O(1)         | link (not done yet)  |
 | 53   | O(N)                   | O(1)         | link (not done yet)  |
+| 98   | O(N)                   | O(N)         | link (not done yet)  |
 | 104  | O(N)                   | O(N)         | link (not done yet)  |
 | 100  | O(N)                   | O(N)         | link (not done yet)  |
 | 102  | O(N)                   | O(N)         | link (not done yet)  |
