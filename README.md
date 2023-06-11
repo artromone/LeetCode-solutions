@@ -35,6 +35,7 @@ Table with the solution complexity information:
 | 217  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 226  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 230  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 236  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 238  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
 | 268  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
 | 297  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
