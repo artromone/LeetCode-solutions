@@ -43,6 +43,7 @@ Table with the solution complexity information:
 | 236  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 238  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
 | 268  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
+| 283  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
 | 297  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 300  | link (not done yet)  | O(Nlog(N))             | O(N)         | link (not done yet)  |
 | 322  | link (not done yet)  | O(N^2)                 | O(N)         | link (not done yet)  |
