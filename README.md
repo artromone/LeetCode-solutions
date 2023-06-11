@@ -19,9 +19,10 @@ Table with the solution complexity information:
 | 70   | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 94   | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 98   | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
-| 104  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 100  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 101  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 102  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 104  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 105  | link (not done yet)  | O(N^2)                 | O(N)         | link (not done yet)  |
 | 121  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
 | 124  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
@@ -34,8 +35,8 @@ Table with the solution complexity information:
 | 238  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
 | 268  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
 | 297  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
-| 297  | link (not done yet)  | O(N^2)                 | O(N)         | link (not done yet)  |
 | 300  | link (not done yet)  | O(Nlog(N))             | O(N)         | link (not done yet)  |
+| 322  | link (not done yet)  | O(N^2)                 | O(N)         | link (not done yet)  |
 | 371  | link (not done yet)  | O(log(N))              | O(1)         | link (not done yet)  |
 | 338  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 572  | link (not done yet)  | O(N^2)                 | O(N)         | link (not done yet)  |
