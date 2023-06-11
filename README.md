@@ -12,6 +12,7 @@ Table with the solution complexity information:
 | ---- | -------------------- | ---------------------- | ------------ | -------------------- |
 | 1    | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 2    | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 5    | link (not done yet)  | O(N^2)                 | O(1)         | link (not done yet)  |
 | 11   | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
 | 15   | link (not done yet)  | O(N^2)                 | O(1)         | link (not done yet)  |
 | 33   | link (not done yet)  | O(log(N))              | O(1)         | link (not done yet)  |
