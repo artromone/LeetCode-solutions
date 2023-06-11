@@ -22,6 +22,7 @@ Table with the solution complexity information:
 | 100  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 101  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 102  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 103  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 104  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 105  | link (not done yet)  | O(N^2)                 | O(N)         | link (not done yet)  |
 | 121  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
