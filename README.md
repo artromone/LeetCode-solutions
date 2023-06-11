@@ -8,32 +8,32 @@ Problem list: https://leetcode.com/problemset/all/
 
 Table with the solution complexity information:
 
-| Task | Algorithmic complexity |    Memory    |   Link to solution   |
-| ---- | ---------------------- | ------------ | -------------------- |
-| 1    | O(N)                   | O(N)         | link (not done yet)  |
-| 2    | O(N)                   | O(N)         | link (not done yet)  |
-| 11   | O(N)                   | O(1)         | link (not done yet)  |
-| 15   | O(N^2)                 | O(1)         | link (not done yet)  |
-| 33   | O(log(N))              | O(1)         | link (not done yet)  |
-| 53   | O(N)                   | O(1)         | link (not done yet)  |
-| 70   | O(N)                   | O(N)         | link (not done yet)  |
-| 98   | O(N)                   | O(N)         | link (not done yet)  |
-| 104  | O(N)                   | O(N)         | link (not done yet)  |
-| 100  | O(N)                   | O(N)         | link (not done yet)  |
-| 102  | O(N)                   | O(N)         | link (not done yet)  |
-| 105  | O(N^2)                 | O(N)         | link (not done yet)  |
-| 121  | O(N)                   | O(1)         | link (not done yet)  |
-| 124  | O(N)                   | O(N)         | link (not done yet)  |
-| 153  | O(log(N))              | O(1)         | link (not done yet)  |
-| 190  | O(1)                   | O(1)         | link (not done yet)  |
-| 191  | O(log(N))              | O(1)         | link (not done yet)  |
-| 217  | O(N)                   | O(N)         | link (not done yet)  |
-| 226  | O(N)                   | O(N)         | link (not done yet)  |
-| 238  | O(N)                   | O(1)         | link (not done yet)  |
-| 268  | O(N)                   | O(1)         | link (not done yet)  |
-| 297  | O(N)                   | O(N)         | link (not done yet)  |
-| 297  | O(N^2)                 | O(N)         | link (not done yet)  |
-| 300  | O(Nlog(N))             | O(N)         | link (not done yet)  |
-| 371  | O(log(N))              | O(1)         | link (not done yet)  |
-| 338  | O(N)                   | O(N)         | link (not done yet)  |
-| 572  | O(N^2)                 | O(N)         | link (not done yet)  |
+| Task |     Link to task     | Algorithmic complexity |    Memory    |   Link to solution   |
+| ---- | -------------------- | ---------------------- | ------------ | -------------------- |
+| 1    | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 2    | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 11   | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
+| 15   | link (not done yet)  | O(N^2)                 | O(1)         | link (not done yet)  |
+| 33   | link (not done yet)  | O(log(N))              | O(1)         | link (not done yet)  |
+| 53   | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
+| 70   | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 98   | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 104  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 100  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 102  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 105  | link (not done yet)  | O(N^2)                 | O(N)         | link (not done yet)  |
+| 121  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
+| 124  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 153  | link (not done yet)  | O(log(N))              | O(1)         | link (not done yet)  |
+| 190  | link (not done yet)  | O(1)                   | O(1)         | link (not done yet)  |
+| 191  | link (not done yet)  | O(log(N))              | O(1)         | link (not done yet)  |
+| 217  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 226  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 238  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
+| 268  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
+| 297  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 297  | link (not done yet)  | O(N^2)                 | O(N)         | link (not done yet)  |
+| 300  | link (not done yet)  | O(Nlog(N))             | O(N)         | link (not done yet)  |
+| 371  | link (not done yet)  | O(log(N))              | O(1)         | link (not done yet)  |
+| 338  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 572  | link (not done yet)  | O(N^2)                 | O(N)         | link (not done yet)  |
