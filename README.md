@@ -52,4 +52,5 @@ Table with the solution complexity information:
 | 371  | link (not done yet)  | O(log(N))              | O(1)         | link (not done yet)  |
 | 338  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 443  | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
+| 560  | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
 | 572  | link (not done yet)  | O(N^2)                 | O(N)         | link (not done yet)  |
