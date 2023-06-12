@@ -4,7 +4,7 @@ Each folder contains **first** and **good** solution. I do the task myself first
 
 If the label is "**Destroyed 🔥**", it means that I have understood and puzzled the solution out so deeply that I can do this in the middle of the night with my eyes closed. Really.
 
-Problem list: https://leetcode.com/problemset/all/
+Problem list: https://leetcode.com/problemset/all/. Tasks solved: **more than 50**.
 
 Table with the solution complexity information:
 
