@@ -16,6 +16,7 @@ Table with the solution complexity information:
 | 11   | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
 | 15   | link (not done yet)  | O(N^2)                 | O(1)         | link (not done yet)  |
 | 20   | link (not done yet)  | O(N)                   | O(N)         | link (not done yet)  |
+| 21   | link (not done yet)  | O(N)                   | O(1)         | link (not done yet)  |
 | 22   | link (not done yet)  | O(4^N/sqrt(N))         | O(N)         | link (not done yet)  |
 | 33   | link (not done yet)  | O(log(N))              | O(1)         | link (not done yet)  |
 | 49   | link (not done yet)  | O((N^2)log(N))         | O(N^2)       | link (not done yet)  |
