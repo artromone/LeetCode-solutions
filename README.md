@@ -34,7 +34,7 @@ Table with the solution complexity information:
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                    | O(N)                   | O(N)         | link (not done yet)  |
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/constreorder-and-inorder-traversal/) | O(N^2)                 | O(N)         | link (not done yet)  |
 | 108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)        | O(N)                   | O(log(N))    | link (not done yet)  |
-| 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populat-in-each-node/)                             | O(N)                   | O(1)         | link (not done yet)  |
+| 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)                             | O(N)                   | O(1)         | link (not done yet)  |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                              | O(N)                   | O(1)         | link (not done yet)  |
 | 124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                    | O(N)                   | O(N)         | link (not done yet)  |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                            | O(N)                   | O(1)         | link (not done yet)  |
