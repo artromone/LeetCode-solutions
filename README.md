@@ -30,7 +30,7 @@ Table with the solution complexity information:
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                          | O(N)                   | O(N)         | link (not done yet)  |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                | O(N)                   | O(N)         | link (not done yet)  |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                          | O(N)                   | O(N)         | link (not done yet)  |
-| 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)            | O(N)                   | O(N)         | link (not done yet)  |
+| 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)            | O(N^2)                 | O(N)         | link (not done yet)  |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                    | O(N)                   | O(N)         | link (not done yet)  |
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/constreorder-and-inorder-traversal/) | O(N^2)                 | O(N)         | link (not done yet)  |
 | 108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)        | O(N)                   | O(log(N))    | link (not done yet)  |
