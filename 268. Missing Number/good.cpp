@@ -15,6 +15,6 @@ public:
     {
       XOR_nums ^= num;
     }
-    return XOR_total ^ XOR_nums;
+    return XOR_total ^ XOR_nums; // All numbers except the missing one occur twice
   }
 };
